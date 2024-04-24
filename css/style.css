@@ -8,7 +8,7 @@ body{
 .header-social ul{
     padding: 12px;
     display: flex;
-    background-color: black;
+    background-color: blue;
     margin-top: -1px;
     border-bottom: 2px solid black;
 }
